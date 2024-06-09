@@ -11,3 +11,14 @@ El ejercicio lee las edades de 5 personas y calcula la edad promedio. Utiliza un
 
 #Ejercico 04
 El ejercicio solicita al usuario un año y determina si ese año es bisiesto o no.
+
+# Ejercicios de Ciclos 
+
+#Ejercicio 01 de while
+
+
+#Ejercicio 02 de while
+
+#Ejercicio 03 de while 
+
+#Ejercicio 04 de FOr 

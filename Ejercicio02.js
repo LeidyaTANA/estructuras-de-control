@@ -16,8 +16,7 @@ if (opera === "+") {
 } if (nom2 !== 0) {
       resul = nom1 / nom2;
     } else {
-        console.log("Error: No se puede dividir por cero");
-        
+        console.log("Error: No se puede dividir por cero");     
     }
 
 

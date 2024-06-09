@@ -6,3 +6,4 @@ while (numeroPar <= 20){
     console.log(numeroPar);
    }
 }
+// ./Ciclos/Ejercicio01_ciclos.js
